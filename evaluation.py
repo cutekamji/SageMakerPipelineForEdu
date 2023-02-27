@@ -1,3 +1,4 @@
+# SageMaker Pipeline - Abalone 예제 참고
 import json
 import pathlib
 import pickle
